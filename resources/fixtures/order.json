@@ -1,0 +1,23 @@
+{
+    "restaurant": "DEBUGER KING",
+    "desc": "40 anos se especializando em trash food.",
+    "products": [
+        {
+            "name": "Woopper Burger"
+        },
+        {
+            "name": "Batatas Fritas"
+        },
+        {
+            "name": "Refrigerante"
+        }
+    ],
+    "total": "28,50",
+    "customer": {
+        "name": "Davi zera",
+        "email": "davizera@gmail.com",
+        "address": "Rua do Page not found",
+        "number": "404"
+    },
+    "payment": "Dinheiro"
+}
